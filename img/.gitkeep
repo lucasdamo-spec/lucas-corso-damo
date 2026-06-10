@@ -1,4 +1,1 @@
 
-git add imagens/.gitkeep
-git commit -m "Adicionar pasta imagens vazia com gitkeep"
-git push origin main
